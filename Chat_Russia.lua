@@ -1,8 +1,8 @@
 local P = game:GetService("Players")
 local whiteList = {
     ["Xrey20052010"] = true,
-    ["НИК_ПОКУПАТЕЛЯ_1"] = true,
-    ["НИК_ПОКУПАТЕЛЯ_2"] = true,
+    ["Xray20052013"] = true,
+    ["Krashim777"] = true,
     ["НИК_ПОКУПАТЕЛЯ_3"] = true,
     ["НИК_ПОКУПАТЕЛЯ_4"] = true,
     ["НИК_ПОКУПАТЕЛЯ_5"] = true,
